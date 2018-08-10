@@ -28,10 +28,11 @@ figcaption {
 }
 
 
-/* Class Selectior (applied to as many elements as you like) */
+/* Class Selector (applied to as many elements as you like) */
 
 .milk-text { /* Select elements with class="milk-text" */
   font: bold 2.6em "Elsie Swash Caps", cursive;
   color: white;
   text-shadow: 0 2px 3px #000;
 }
+/* ID Selector (applied to one unique element per page) */
